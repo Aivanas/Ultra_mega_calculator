@@ -2,7 +2,7 @@
 int choosed = 0;
 int first_num = 0;
 int second_num = 0;
-Boolean bool_num = true;
+bool bool_num = true;
 
 do
 {
